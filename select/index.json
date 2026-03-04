@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "That’s So True",
+  "base_artist": "Gracie Abrams",
+  "createdAt": "2026-03-04T10:06:49.135626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That’s So True",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/01_That’s_So_True_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That’s So True",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/02_That’s_So_True_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "That’s So True",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/03_That’s_So_True_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gracie Abrams - That’s So True",
+      "artist": "TheGoodVibe",
+      "has_synced": true,
+      "path": "select/04_Gracie_Abrams_-_That’s_So_True_TheGoodVibe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That’s So True (Live at Radio City Music Hall)",
+      "artist": "Gracie Abrams",
+      "has_synced": false,
+      "path": "select/05_That’s_So_True_(Live_at_Radio_City_Music_Hall)_Gracie_Abrams.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gracie Abrams - That's So True (Español   lyrics)",
+      "artist": "rayita",
+      "has_synced": true,
+      "path": "select/06_Gracie_Abrams_-_That's_So_True_(Español_lyrics)_rayita.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gracie Abrams - That’s So True (Live at Radio City Music Hall)",
+      "artist": "Gracie Abrams",
+      "has_synced": false,
+      "path": "select/07_Gracie_Abrams_-_That’s_So_True_(Live_at_Radio_City_Music_Hall)_Gracie_Abrams.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That’s So True",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/08_That’s_So_True_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gracie Abrams - That’s So True",
+      "artist": "LatinHype",
+      "has_synced": true,
+      "path": "select/09_Gracie_Abrams_-_That’s_So_True_LatinHype.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That’s So True (Live at Radio City Music Hall)",
+      "artist": "Gracie Abrams",
+      "has_synced": true,
+      "path": "select/10_That’s_So_True_(Live_at_Radio_City_Music_Hall)_Gracie_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's so Us",
+      "artist": "Allie X",
+      "has_synced": true,
+      "path": "select/11_That's_so_Us_Allie_X.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That's So You",
+      "artist": "The Rocket Summer",
+      "has_synced": true,
+      "path": "select/12_That's_So_You_The_Rocket_Summer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "That's so Yesterday",
+      "artist": "World War Me",
+      "has_synced": false,
+      "path": "select/13_That's_so_Yesterday_World_War_Me.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That's So Me and You",
+      "artist": "Thompson Square",
+      "has_synced": true,
+      "path": "select/14_That's_So_Me_and_You_Thompson_Square.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "That's So Gay",
+      "artist": "Pansy Division",
+      "has_synced": true,
+      "path": "select/15_That's_So_Gay_Pansy_Division.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Life Is Life and That's so Deep",
+      "artist": "Crywank",
+      "has_synced": false,
+      "path": "select/16_Life_Is_Life_and_That's_so_Deep_Crywank.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "That's So Us",
+      "artist": "Allie X",
+      "has_synced": true,
+      "path": "select/17_That's_So_Us_Allie_X.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Life is Life and That's So Deep",
+      "artist": "Alibi Lounge",
+      "has_synced": true,
+      "path": "select/18_Life_is_Life_and_That's_So_Deep_Alibi_Lounge.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "That's So Raven",
+      "artist": "Quelly Woo",
+      "has_synced": true,
+      "path": "select/19_That's_So_Raven_Quelly_Woo.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "That's So Us",
+      "artist": "Allie X",
+      "has_synced": true,
+      "path": "select/20_That's_So_Us_Allie_X.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "That’s So Raven",
+      "artist": "Quelly Woo",
+      "has_synced": true,
+      "path": "select/21_That’s_So_Raven_Quelly_Woo.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "That's So Raven (Theme Song)",
+      "artist": "Raven-Symoné",
+      "has_synced": true,
+      "path": "select/22_That's_So_Raven_(Theme_Song)_Raven-Symoné.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "this world is full of friends and that's so cool",
+      "artist": "american poetry club",
+      "has_synced": false,
+      "path": "select/23_this_world_is_full_of_friends_and_that's_so_cool_american_poetry_club.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Supernatural (That's So Raven)",
+      "artist": "Raven-Symoné",
+      "has_synced": true,
+      "path": "select/24_Supernatural_(That's_So_Raven)_Raven-Symoné.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "That's So Raven (feat. Lil B)",
+      "artist": "Backwood Bobby",
+      "has_synced": true,
+      "path": "select/25_That's_So_Raven_(feat._Lil_B)_Backwood_Bobby.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "THAT'S SO CRAZY!",
+      "artist": "Breeton Boi",
+      "has_synced": true,
+      "path": "select/26_THAT'S_SO_CRAZY!_Breeton_Boi.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "That's So Raven",
+      "artist": "Raven-Symoné",
+      "has_synced": true,
+      "path": "select/27_That's_So_Raven_Raven-Symoné.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "has_synced": false,
+      "path": "select/pl_01_That's_So_True_Gracie_Abrams.txt"
+    }
+  ]
+}
